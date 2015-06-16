@@ -9,11 +9,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="638.90637"
-   height="124.4807"
+   width="893.7829"
+   height="135.31732"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="header.svg"
    inkscape:export-filename="C:\Users\Gregory\Documents\GregNet.net\Website files\img\header.png"
    inkscape:export-xdpi="90"
@@ -24,8 +24,8 @@
        inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Cutout Glow"
-       color-interpolation-filters="sRGB"
-       id="filter3810">
+       id="filter3810"
+       style="color-interpolation-filters:sRGB">
       <feOffset
          dy="3"
          dx="3"
@@ -56,8 +56,8 @@
        inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
        inkscape:menu="Shadows and Glows"
        inkscape:label="Cutout Glow"
-       color-interpolation-filters="sRGB"
-       id="filter3822">
+       id="filter3822"
+       style="color-interpolation-filters:sRGB">
       <feOffset
          dy="3"
          dx="3"
@@ -93,8 +93,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="283.66273"
-     inkscape:cy="52.720617"
+     inkscape:cx="349.88097"
+     inkscape:cy="200.17824"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -103,8 +103,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -124,27 +124,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-156.42992,-563.01091)">
+     transform="translate(-90.211683,-556.77479)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3757"
-       style="font-size:188px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3810);font-family:Sans"
-       transform="matrix(0.57776946,0,0,0.57776946,339.23368,470.03767)"
+       style="font-style:normal;font-weight:normal;font-size:188px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3810)"
+       transform="matrix(0.57776946,0,0,0.57776946,319.94797,451.46624)"
        inkscape:export-filename="C:\Users\Gregory\Documents\GregNet.net\Website files\img\flowRoot3802.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
          id="flowRegion3759"><rect
            id="rect3761"
-           width="837.14258"
-           height="228.57155"
+           width="1311.8745"
+           height="263.18747"
            x="-279.99997"
            y="155.21933"
            style="font-size:188px" /></flowRegion><flowPara
          id="flowPara3763"
-         style="font-size:201px">Greg-Net</flowPara></flowRoot>    <flowRoot
+         style="font-size:201px">Greg-Net.<flowSpan
+   style="fill:#808080"
+   id="flowSpan3365">net</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3773"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion3775"><rect
            id="rect3777"
            width="388.57144"
@@ -154,7 +156,7 @@
          id="flowPara3779" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3802"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;filter:url(#filter3822);font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;filter:url(#filter3822)"
        transform="matrix(0.57776946,0,0,0.57776946,608.30918,323.11915)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><flowRegion
