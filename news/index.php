@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Greg-Net.net - News</title>
-        <link rel="stylesheet" type="text/css" href="/main.css">
-        <meta name="description" content="Greg's website of free software">
-        <meta name="keywords" content="Greg, software, website, open source, free software">
-        <meta charset="utf-8">
-        <link rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/" type="text/html">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <!-- for IE 8 and below -->
-        <!--[if lt IE 9]>
-        <script src="https://github.com/aFarkas/html5shiv/blob/master/src/html5shiv.js"></script>
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<![endif]-->
-    </head>
-    <body>
-        <!-- container -->
-        <div id="container">
-            <!-- header -->
-            <header id="main_header"><img src="/img/header.png" alt="Greg-net.net"></header>
-            <br>
+<?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/header_template.html")?>
             <!-- navigation -->
             <nav>
                 <a href="/">Home</a>
@@ -50,14 +27,6 @@
                         <li>As with the above the tutorials and about page has been removed.</li>
                         <li>And a whole bunch of other changes</li>
                     </ul>
-                    I will do other things with this site, just not often.
                 </div>
-            </div>
-            <br>
-            <!-- footer -->
-            <footer>
-                Copyright &copy; Gregory Karastergios 2015
-            </footer>
-        </div>
-    </body>
-</html>
+                    I will do other things with this site, just not often.
+<?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/footer_template.html")?>
