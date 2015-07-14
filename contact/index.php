@@ -1,7 +1,7 @@
 <?php echo file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/header_template.html")?>
             <!-- navigation -->
             <nav>
-                <a href="/home">Home</a>
+                <a href="/">Home</a>
                 <br>
                 <a href="/soft">Software</a>
                 <br>
