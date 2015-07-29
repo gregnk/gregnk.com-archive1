@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="547.28015"
+   height="86.685928"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="header.svg"
+   inkscape:export-filename="C:\Users\Gregory\Documents\GregNet.net\Website files\img\header.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       id="filter3810"
+       style="color-interpolation-filters:sRGB">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset3812" />
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="3"
+         id="feGaussianBlur3814" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         in="result8"
+         result="result10"
+         id="feFlood3816" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result10"
+         result="result9"
+         id="feComposite3818" />
+      <feBlend
+         mode="normal"
+         in2="result9"
+         in="result8"
+         id="feBlend3820" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       id="filter3822"
+       style="color-interpolation-filters:sRGB">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset3824" />
+      <feGaussianBlur
+         result="result8"
+         stdDeviation="3"
+         id="feGaussianBlur3826" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         in="result8"
+         result="result10"
+         id="feFlood3828" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="result10"
+         result="result9"
+         id="feComposite3830" />
+      <feBlend
+         mode="normal"
+         in2="result9"
+         in="result8"
+         id="feBlend3832" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter3368">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset3370" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur3372" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood3374" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite3376" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend3378" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="464.31937"
+     inkscape:cy="11.673705"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     fit-margin-top="2.9"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="-2.7755576e-017"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-53.732064,-589.36314)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3773"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3775"><rect
+           id="rect3777"
+           width="388.57144"
+           height="222.85715"
+           x="22.857143"
+           y="409.50504" /></flowRegion><flowPara
+         id="flowPara3779" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3802"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#aaaaaa;fill-opacity:1;stroke:none;filter:url(#filter3822)"
+       transform="matrix(0.57776946,0,0,0.57776946,608.30918,323.11915)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><flowRegion
+         id="flowRegion3804"><rect
+           id="rect3806"
+           width="257.14276"
+           height="142.85732"
+           x="71.428574"
+           y="458.07645"
+           style="fill:#aaaaaa" /></flowRegion><flowPara
+         id="flowPara3808"
+         style="font-size:144px;fill:#aaaaaa">.net</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:84.88248444px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter3368)"
+       x="53.405724"
+       y="650.32764"
+       id="text3362"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98578601,0,0,0.98578601,0.0530475,12.233642)"><tspan
+         sodipodi:role="line"
+         id="tspan3364"
+         x="53.405724"
+         y="650.32764">Greg-Net<tspan
+   style="fill:#b3b3b3"
+   id="tspan3366">.net</tspan></tspan></text>
+  </g>
+</svg>
