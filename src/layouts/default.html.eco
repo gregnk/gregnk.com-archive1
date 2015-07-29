@@ -35,7 +35,7 @@
             <div id="content">
                 <h1> <%= @document.header %> </h1>
                 <br>
-                <%- content %>
+                <%- @content %>
             <br>
             <!-- footer -->
             <footer>
