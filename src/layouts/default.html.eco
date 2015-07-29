@@ -32,7 +32,7 @@
                 <a href="/contact">Contact</a>
             </nav>
             <!-- content -->
-            <div id="content">s
+            <div id="content">
                 <%- @content %>
             <br>
             <!-- footer -->
