@@ -35,6 +35,7 @@
             <div id="content">
                 <%- @content %>
             <br>
+            </div>
             <!-- footer -->
             <footer>
                 Copyright &copy; Gregory Karastergios 2015
