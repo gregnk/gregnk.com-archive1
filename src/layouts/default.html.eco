@@ -32,9 +32,7 @@
                 <a href="/contact">Contact</a>
             </nav>
             <!-- content -->
-            <div id="content">
-                <h1> <%= @document.header %> </h1>
-                <br>
+            <div id="content">s
                 <%- @content %>
             <br>
             <!-- footer -->
