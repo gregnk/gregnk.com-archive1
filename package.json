@@ -5,7 +5,6 @@
   "dependencies": {
     "docpad": "~6.78.1",
     "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-jade": "~2.9.0",
     "docpad-plugin-php": "~2.0.2"
   },
   "main": "node_modules/.bin/docpad-server",
