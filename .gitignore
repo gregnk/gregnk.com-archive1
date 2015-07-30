@@ -2,3 +2,4 @@
 /node_modules/
 /upload.cmd
 /compile.cmd
+/src/static/downloads_root/
