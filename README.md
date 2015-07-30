@@ -12,6 +12,7 @@
 There is currently 2 branches:
 
 > `master` The live website
+
 > `dev` Any changes that are under development
 
 #2. Compiling
