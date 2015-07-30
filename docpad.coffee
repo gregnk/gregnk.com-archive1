@@ -10,5 +10,4 @@ docpadConfig =
             keywords: """
                 Greg, tech, stuff, software
                 """
-
 }
