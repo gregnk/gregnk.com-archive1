@@ -1,7 +1,7 @@
 {
-  "name": "no-skeleton.docpad",
-  "version": "0.1.0",
-  "description": "New DocPad project without using a skeleton",
+  "name": "grge-net",
+  "version": "2.1.0",
+  "description": "Greg-net.net source",
   "dependencies": {
     "docpad": "~6.78.1",
     "docpad-plugin-eco": "~2.1.0",
