@@ -12,7 +12,7 @@
 There is currently 2 branches:
 
 * `master` The live website
-* `dev` Ansy changes that are under development
+* `dev` Any changes that are under development
 
 #2. Compiling
 
