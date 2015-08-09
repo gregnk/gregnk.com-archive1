@@ -1,0 +1,19 @@
+---
+title: "Greg-net.net"
+layout: "default"
+isPage: true
+---
+<h1>Welcome</h1>
+<br>
+<p>Hi, im Greg and this is my site. Since there is almost nothing here yet, feel free to walk around.</p>
+<br>
+<h1 id="software">Software</h1>
+<em>soon</em>
+<br>
+<h1>Blog</h1>
+<br>
+<ul>
+    <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"}).toJSON(): %>
+    <li><a href="<%= page.url %>"><%= page.title %></a> - By <%= page.author %> <i><%= page.date %></i> </li>
+    <% end %>
+</ul>
