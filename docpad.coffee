@@ -2,8 +2,8 @@ docpadConfig =
 {
     templateData:
         site:
-            url: "http://website.com"
-            title: "Your Website"
+            url: "http://greg-net.net"
+            title: "Greg-net.net"
             description: """
                 Greg's site of stuff
                 """
