@@ -7,6 +7,6 @@ isPage: true
 <br>
 <ul>
     <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"}).toJSON(): %>
-    <li><a href="<%= page.url %>"><%= page.title %></a> - <%= page.date %></li>
+    <li><a href="<%= page.url %>"><%= page.title %></a> - By <%= page.author %> <i><%= page.date %></i> </li>
     <% end %>
 </ul>

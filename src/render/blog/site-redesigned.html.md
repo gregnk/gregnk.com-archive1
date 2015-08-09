@@ -1,8 +1,9 @@
 ---
-layout: "post"
-date: "Feb 28th 2015, 3:00 PM"
-author: "Greg"
-title: "Website re-designed"
+layout: post
+date: 2015-2-28 3:00
+author: Gregnk
+title: Website re-designed
+isPage: true
 ---
 So I re-designed my site because the old one looked weird. Here are this list of changes:
     
