@@ -1,4 +1,7 @@
 ---
-title: "News - index"
 layout: default
 ---
+<h1> <%= @document.title %></h1>
+<i>By <%= @document.author %> on  <%= @document.date %></i>
+<br>
+<%- @content %>
