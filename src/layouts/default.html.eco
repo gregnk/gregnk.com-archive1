@@ -32,11 +32,11 @@
                 <a href="/contact">Contact</a>
                 <br>
                 <br>
-                <a href="https://github.com/gregnk">Github</a>
+                <a href="https://github.com/gregnk" target="_blank">Github</a>
                 <br>
-                <a href="http://twitter.com/gregory_nk">Twitter</a>
+                <a href="http://twitter.com/gregory_nk" target="_blank">Twitter</a>
                 <br>
-                <a href="http://github.com/gregnk/greg-net">Website Source</a>
+                <a href="http://github.com/gregnk/greg-net" target="_blank">Website Source</a>
             </nav>
             <div id="content">
 <!-- CONTENT BEGIN -->
