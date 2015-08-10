@@ -21,8 +21,9 @@ To compile this website:
 1. Download and install [Node.js](http://nodejs.org)
 2. Open Command Prompt/Terminal
 3. Install docpad `npm -g install docpad` or update to the latest version `docpad update`
-4. goto to the top-level directory of the source `cd path\to\source`
-5. run docpad `docpad run`
+4. Goto to the top-level directory of the source `cd path\to\source`
+5. install the following docpad plugins (eco, marked) `docpad install <PLUGIN>`
+6. Run docpad `docpad run`
 
 #3. Changelog
 
