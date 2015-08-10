@@ -4,19 +4,18 @@
   "description": "Greg-net.net source",
   "author": "Gregory Karastergios",
   "maintainers": [
-        "Gregory Karastergios (Greg_NK@greg-net.net)"
-    ],
+    "Gregory Karastergios (Greg_NK@greg-net.net)"
+  ],
   "dependencies": {
     "docpad": "~6.78.1",
     "docpad-plugin-eco": "~2.1.0",
-    "docpad-plugin-marked": "~2.3.0",
-    "docpad-plugin-php": "~2.0.2"
+    "docpad-plugin-marked": "~2.3.0"
   },
   "main": "node_modules/.bin/docpad-server",
   "scripts": {
     "start": "node_modules/.bin/docpad-server"
   },
-  "repository" : {
+  "repository": {
     "type": "git",
     "url": "https://github.com/gregnk/greg-net/"
   }
