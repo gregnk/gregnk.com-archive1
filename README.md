@@ -27,7 +27,7 @@ To compile this website:
 
 #3. Changelog
 
-See [CHANGELOG.md](CHANGELOG.md)
+See [CHANGELOG](CHANGELOG.md)
 
 #4. License
 
