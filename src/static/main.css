@@ -23,17 +23,11 @@ body
 h1
 {
     border-bottom: 5px #676767 solid;
-    /*background-color: #676767; */
 }
 
 h2
 {
     border-bottom: 5px #6F91C5 solid;
-}
-
-div.news_content
-{
-   /* nothing here yet */
 }
 
 nav
