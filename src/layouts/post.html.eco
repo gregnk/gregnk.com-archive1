@@ -2,6 +2,7 @@
 layout: default
 ---
 <h1> <%= @document.title %></h1>
-<i>By <%= @document.author %> on  <%= @document.date %></i>
+<b>By <%= @document.author %> on <%= @document.date %></b>
+<hr style="background-color:#A7A7A7;border:0;height:3px;">
 <br>
 <%- @content %>
