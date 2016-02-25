@@ -34,4 +34,4 @@ See [CHANGELOG](CHANGELOG.md)
 This code is currently licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-Copyright &copy; Gregory Karastergios 2015
+&copy; Gregory Karastergios 2016
