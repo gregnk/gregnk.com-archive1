@@ -1,7 +1,6 @@
 ---
 layout: post
 date: 2015-2-28 3:00
-author: Gregnk
 title: Website re-designed
 isPage: true
 ---
