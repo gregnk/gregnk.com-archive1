@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>403 - Access Denied</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="errpage.css">
+    </head>
+    <body>
+        <h1>Error!</h1>
+        <h2>403 - Access Denied</h2>
+        You are not authorized to access <!--#echo var="REQUEST_URI" --> on <!--#echo var="HTTP_HOST" -->.
+        <br>
+        <br>
+        If you think this is an mistake please <a href="mailto:Greg_NK@greg-net.net">contact me</a>
+        <br>
+        <br>
+        <b><a href="/">Greg-net.net homepage</a></b>
+        <hr>
+        <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
+        </i>
+    </body>
+</html>

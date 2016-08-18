@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>500 - Internal Server Error</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="errpage.css">
+    </head>
+    <body>
+        <h1>Error!</h1>
+        <h2>500 - Internal Server Error</h2>
+        An error in the server configuration has caused <!--#echo var="HTTP_HOST" --> to not work properly.
+        <br>
+        Please wait a couple minutes and reload the page.
+        <br>
+        <br>
+        If this error persists please <a href="mailto:Greg_NK@greg-net.net">contact me</a>.
+        <hr>
+        <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
+        </i>
+    </body>
+</html>
