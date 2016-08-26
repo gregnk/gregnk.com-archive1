@@ -2,7 +2,6 @@
 layout: default
 ---
 <h1> <%= @document.title %></h1>
-<b>Posted on <%= @moment(@document.date).format('MMMM Do, YYYY @ HH:MM') %></b>
-<hr style="background-color:#A7A7A7;border:0;height:3px;">
+<h4>Posted on <%= @moment(@document.date).format('MMMM Do, YYYY @ HH:MM') %></h4>
 <br>
 <%- @content %>
