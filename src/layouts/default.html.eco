@@ -39,7 +39,7 @@
             </nav>
             <div id="content">
 <!-- CONTENT BEGIN -->
-                <%- @content %>
+<%- @content %>
 <!-- CONTENT END -->
             <br>
             </div>
