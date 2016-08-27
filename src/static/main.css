@@ -11,7 +11,6 @@ html, body
     margin: 0;
     padding: 0;
     height: 100%;
-     
 }
 
 body
@@ -73,11 +72,15 @@ footer
     text-align: left;
 }
 
+ul.blog
+{
+    list-style: none;
+}
+/* links */
 img a
 {
     text-decoration: none; 
 }
-/* links */
 
 a
 {

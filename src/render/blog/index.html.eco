@@ -5,7 +5,7 @@ layout: "default"
 isPage: true
 ---
 <h1>Blog</h1>
-<ul>
+<ul class="blog">
     <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"}).toJSON(): %>
     <li><a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY @ HH:MM') %></b> </li>
     <% end %>
