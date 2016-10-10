@@ -27,7 +27,9 @@ To compile this website:
 
 #3. Changelog
 
-See [CHANGELOG](CHANGELOG.md)
+For a full list of changes, see [Commits](https://github.com/gregnk/greg-net/commits/master)
+
+For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/greg-net/tags)
 
 #4. License
 
