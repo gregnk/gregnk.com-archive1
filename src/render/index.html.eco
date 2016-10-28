@@ -11,7 +11,7 @@ isPage: true
 <br>
 <h1>Blog</h1>
 <ul class="blog">
-    <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"}).toJSON(): %>
+    <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"},[date:-1]).toJSON(): %>
     <li><a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY') %></b> </li>
     <% end %>
 </ul>
