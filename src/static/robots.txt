@@ -1,9 +1,3 @@
 # Disallow images
 User-agent: *
 Disallow: /img
-
-# China hijacked Baidu to DDoS Github 
-# (http://www.businessinsider.com/the-great-cannon-chinese-hacking-tool-exposed-2015-40
-# Won't let that happen here
-User-agent: baiduspider
-Disallow: /
