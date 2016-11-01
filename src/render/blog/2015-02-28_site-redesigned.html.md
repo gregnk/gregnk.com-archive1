@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-02-28
+date: 2015-02-28 0:01
 title: Website re-designed
 isPage: true
 ---
