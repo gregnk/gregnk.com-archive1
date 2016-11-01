@@ -11,10 +11,10 @@
         <h2>404 - Page not found</h2>
         <!--#echo var="REQUEST_URI" --> was not found on <!--#echo var="HTTP_HOST" -->.
         <br>
-        If you think there is a broken link please <a href="mailto:Greg_NK@greg-net.net">contact me</a>
+        If you think there is a broken link please <a href="mailto:greg@gregnk.com">contact me</a>
         <br>
         <br>
-        <b><a href="/">Greg-net.net homepage</a></b>
+        <b><a href="/">Gregnk.com homepage</a></b>
         <hr>
         <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
         </i>

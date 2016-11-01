@@ -14,7 +14,7 @@
         Please wait a couple minutes and reload the page.
         <br>
         <br>
-        If this error persists please <a href="mailto:Greg_NK@greg-net.net">contact me</a>.
+        If this error persists please <a href="mailto:greg@gregnk.com">contact me</a>.
         <hr>
         <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
         </i>
