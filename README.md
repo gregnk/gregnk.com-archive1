@@ -1,4 +1,4 @@
-#Greg-Net.net Source
+#Gregnk.com Source
 
 #Contents
 
@@ -27,9 +27,9 @@ To compile this website:
 
 #3. Changelog
 
-For a full list of changes, see [Commits](https://github.com/gregnk/greg-net/commits/master)
+For a full list of changes, see [Commits](https://github.com/gregnk/website/commits/master)
 
-For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/greg-net/tags)
+For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/website/tags)
 
 #4. License
 
