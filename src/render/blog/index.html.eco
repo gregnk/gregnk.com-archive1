@@ -2,6 +2,7 @@
 title: "Gregnk.com - blog"
 description: "The latest stuff on greg-net.net"
 layout: "default"
+keywords: "Greg, software, open source, free software, Gregory Karastergios, blog"
 isPage: true
 ---
 <h1>Blog</h1>

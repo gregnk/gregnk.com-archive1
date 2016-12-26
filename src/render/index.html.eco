@@ -2,6 +2,7 @@
 title: "gregnk.com - Home"
 description: "Greg's site of software and stuff"
 layout: "default"
+keywords: "Greg, software, open source, free software, Gregory Karastergios, blog"
 isPage: true
 ---
 <h1>Welcome</h1>

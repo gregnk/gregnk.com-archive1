@@ -2,6 +2,7 @@
 layout: post
 date: 2015-02-28 0:01
 title: Website re-designed
+keywords: ""
 isPage: true
 ---
 So I re-designed my site because the old one looked weird. Here are this list of changes:
