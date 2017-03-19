@@ -1,6 +1,6 @@
 # Gregnk.com Source
 
-# Contents
+## Contents
 
 1. Branches
 2. Compiling
