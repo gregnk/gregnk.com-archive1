@@ -36,4 +36,4 @@ For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/websit
 This code is currently licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 
-&copy; Gregory Karastergios 2016
+&copy; Gregory Karastergios 2016-2017
