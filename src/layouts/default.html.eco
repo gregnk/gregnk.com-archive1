@@ -31,11 +31,13 @@
                 <a href="/contact">Contact</a>
                 <br>
                 <br>
+                <a href="https://twitter.com/gregory_nk" target="_blank">Twitter</a>
+                <br>
                 <a href="https://github.com/gregnk" target="_blank">Github</a>
                 <br>
-                <a href="http://twitter.com/gregory_nk" target="_blank">Twitter</a>
+                <a href="https://youtube.com/GregoryKarastergios" target="_blank">Youtube</a>
                 <br>
-                <a href="http://github.com/gregnk/website" target="_blank">Website Source</a>
+                <a href="https://vidme.com/gregnk" target="_blank">Vidme</a>
             </nav>
             <div id="content">
 <!-- CONTENT BEGIN -->
@@ -45,7 +47,7 @@
             </div>
             <!-- footer -->
             <footer>
-                &copy; Gregory Karastergios 2016 | <a href="https://validator.w3.org/nu/?doc=http%3A%2F%2Fgregnk.com%2F" style="color:#555555;" target="_blank">Valid HTML</a>
+                &copy; Gregory Karastergios 2016-2017 | <a href="https://github.com/gregnk/gregnk.com" target="_blank" style="color:#555555;">Source</a>
             </footer>
         </div>
     </body>
