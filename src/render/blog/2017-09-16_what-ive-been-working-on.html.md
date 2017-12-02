@@ -6,7 +6,7 @@ keywords: "update, projects"
 isPage: true
 ---
 
-<iframe src="https://vid.me/e/cWD2v" width="560" height="315" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4B5tix071ns?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Figured I should make my yearly blog post now
 
