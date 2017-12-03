@@ -1,3 +1,2 @@
-* Implement software page
-* Actually add content
 * Fix post-compile HTML code formatting
+* Have the home page only display the most recent blog posts
