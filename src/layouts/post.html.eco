@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-<h1> <%= @document.title %></h1>
+<h1><%= @document.title %></h1>
 <h4>Posted on <%= @moment(@document.date).format('MMMM Do, YYYY') %></h4>
 <%- @content %>
