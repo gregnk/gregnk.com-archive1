@@ -1,0 +1,13 @@
+---
+title: "Gregnk.com - Projects"
+description: "Projects that I'm working on"
+layout: "default"
+keywords: "Greg, software, Gregory Karastergios, blog"
+isPage: true
+---
+<h1>Projects</h1>
+<% for page in @getFilesAtPath("projects").findAll({isPage:true,layout:"project"},[date:-1]).toJSON(): %>
+<a href="<%= if page.externalLink then page.externalLink else page.url %>"><%= page.title %></a> - <%= page.desc %>
+<% end %>
+<br>
+<br>
