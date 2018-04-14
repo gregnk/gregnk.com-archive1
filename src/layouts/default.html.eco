@@ -18,7 +18,7 @@
     <body>
         <div id="container">
             <!-- header -->
-            <header id="main_header"><img src="/img/header.png" alt="Gregnk.com"></header>
+            <header id="main_header">Gregnk's Software and Stuff</header>
             <br>
             <!-- navigation -->
             <nav>

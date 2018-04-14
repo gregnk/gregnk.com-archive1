@@ -69,7 +69,13 @@ nav a
 #main_header
 {
     border-bottom-style: double;
+    border-bottom-color: black;
     background-color: #678EB3;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 0px 0px 40px #FFFFFF;
+    word-wrap: break-word;
+    padding-bottom: 10px;
 }   
 
 footer
