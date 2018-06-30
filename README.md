@@ -5,7 +5,7 @@
 1. Branches
 2. Compiling
 3. Changelog
-4. License
+4. Copyright
 
 ## 1. Branches
 
@@ -31,9 +31,6 @@ For a full list of changes, see [Commits](https://github.com/gregnk/gregnk.com/c
 
 For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/gregnk.com/tags)
 
-## 4. License
+## 4. Copyright
 
-This code is currently licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
-
-
-&copy; 2016-2017 Gregory Karastergios
+&copy; 2016-2018 Gregory Karastergios
