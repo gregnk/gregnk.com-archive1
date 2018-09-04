@@ -148,3 +148,29 @@ nav a:active
 {
     color: lightgray;
 }
+
+/* mobile */
+
+@media (orientation:portrait)
+{
+    #main_header
+    {
+        font-size: 45px;
+    }
+    
+    #content
+    {
+        padding-left: 0px;
+        text-align: center;
+    }
+    
+    nav
+    {
+        text-align: center;
+        font-size: 20px;
+        float: none;
+        padding-left: 00px;
+        border-left-style: none;
+        border-bottom-style: inset;
+    }
+}
