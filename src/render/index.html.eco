@@ -7,13 +7,22 @@ isPage: true
 ---
 <h1>Welcome</h1>
 <p>Hi, im Gregory and this is my website. I make things on occasion and post them here. Usually there's not much going here, but when there is it's usually related to tech.</p>
-<h1>Projects</h1>
+<h1 id="projects">Projects</h1>
 <% for page in @getFilesAtPath("projects").findAll({isPage:true,layout:"project"},[date:-1]).toJSON(): %>
 <a href="<%= if page.externalLink then page.externalLink else page.url %>"><%= page.title %></a> - <%= page.desc %>
 <% end %>
 <br>
-<h1>Blog</h1>
+<h1 id="blog">Blog</h1>
 <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"},[date:-1]).toJSON(): %>
 <a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY') %></b>
 <br>
 <% end %>
+<h1 id="contact">Contact</h1>
+<h2>Email</h2>
+<a href="mailto:&#x67;&#x72;&#x65;&#x67;&#x40;&#x67;&#x72;&#x65;&#x67;&#x6e;&#x6b;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x72;&#x65;&#x67;&#x40;&#x67;&#x72;&#x65;&#x67;&#x6e;&#x6b;&#x2e;&#x63;&#x6f;&#x6d;</a> - Feel free to send me suggestions and feedback here
+<h2>Github</h2>
+<a href="http://github.com/gregnk" target="_blank" target="_blank">gregnk</a> - Where the source code for some my projects is located. Currently there's not much there.
+<h2>Youtube</h2>
+<a href="http://youtube.com/GregoryKarastergios" target="_blank">GregoryKarastergios</a> - I upload videos here sometimes, usually on projects that I'm working on.
+<h2>Twitter</h2>
+<a href="http://twitter.com/Gregory_NK" target="_blank">Gregory_NK</a> - Updates, thoughts, opinions and other things that I want to say.
