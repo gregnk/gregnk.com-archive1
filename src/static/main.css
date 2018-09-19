@@ -161,15 +161,15 @@ nav a:active
     #content
     {
         padding-left: 0px;
-        text-align: center;
+        //text-align: center;
     }
     
     nav
     {
-        text-align: center;
+        //text-align: center;
         font-size: 20px;
         float: none;
-        padding-left: 00px;
+        padding-left: 0px;
         border-left-style: none;
         border-bottom-style: inset;
     }
