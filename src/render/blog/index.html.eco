@@ -1,0 +1,12 @@
+---
+title: "Gregnk.com - Blog"
+description: "The latest stuff on gregnk.com"
+layout: "default"
+keywords: "Greg, software, Gregory Karastergios, blog"
+isPage: true
+---
+<h1>Blog</h1>
+<% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"},[date:-1]).toJSON(): %>
+<a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY') %></b>
+<br>
+<% end %>

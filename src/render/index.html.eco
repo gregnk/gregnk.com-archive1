@@ -7,12 +7,12 @@ isPage: true
 ---
 <h1>Welcome</h1>
 <p>Hi, im Gregory and this is my website. I make things on occasion and post them here. Usually there's not much going here, but when there is it's usually related to tech.</p>
-<h1 id="projects">Projects</h1>
+<h1>Projects</h1>
 <% for page in @getFilesAtPath("projects").findAll({isPage:true,layout:"project"},[date:-1]).toJSON(): %>
 <a href="<%= if page.externalLink then page.externalLink else page.url %>"><%= page.title %></a> - <%= page.desc %>
 <% end %>
 <br>
-<h1 id="blog">Blog</h1>
+<h1>Blog</h1>
 <% for page in @getFilesAtPath("blog").findAll({isPage:true,layout:"post"},[date:-1]).toJSON(): %>
 <a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY') %></b>
 <br>
