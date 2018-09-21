@@ -17,12 +17,3 @@ isPage: true
 <a href="<%= page.url %>"><%= page.title %></a> - Posted on <b><%= @moment(page.date).format('MMMM Do, YYYY') %></b>
 <br>
 <% end %>
-<h1 id="contact">Contact</h1>
-<h2>Email</h2>
-<a href="mailto:&#x67;&#x72;&#x65;&#x67;&#x40;&#x67;&#x72;&#x65;&#x67;&#x6e;&#x6b;&#x2e;&#x63;&#x6f;&#x6d;">&#x67;&#x72;&#x65;&#x67;&#x40;&#x67;&#x72;&#x65;&#x67;&#x6e;&#x6b;&#x2e;&#x63;&#x6f;&#x6d;</a> - Feel free to send me suggestions and feedback here
-<h2>Github</h2>
-<a href="http://github.com/gregnk" target="_blank">gregnk</a> - Where the source code for some my projects is located. Currently there's not much there.
-<h2>Youtube</h2>
-<a href="http://youtube.com/GregoryKarastergios" target="_blank">GregoryKarastergios</a> - I upload videos here sometimes, usually on projects that I'm working on.
-<h2>Twitter</h2>
-<a href="http://twitter.com/Gregory_NK" target="_blank">Gregory_NK</a> - Updates, thoughts, opinions and other things that I want to say.
