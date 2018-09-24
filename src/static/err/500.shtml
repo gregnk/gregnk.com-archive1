@@ -16,7 +16,5 @@
         <br>
         If this error persists please <a href="mailto:greg@gregnk.com">contact me</a>.
         <hr>
-        <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
-        </i>
     </body>
 </html>

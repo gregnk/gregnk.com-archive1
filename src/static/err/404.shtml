@@ -16,7 +16,5 @@
         <br>
         <b><a href="/">Gregnk.com homepage</a></b>
         <hr>
-        <i>Server: <!--#echo var="SERVER_SOFTWARE" -->
-        </i>
     </body>
 </html>
