@@ -12,7 +12,7 @@
         You are not authorized to access <!--#echo var="REQUEST_URI" --> on <!--#echo var="HTTP_HOST" -->.
         <br>
         <br>
-        If you think this is an mistake please <a href="mailto:greg@gregnk.com">contact me</a>
+        If you think this is a mistake please <a href="mailto:greg@gregnk.com">contact me</a>
         <br>
         <br>
         <b><a href="/">Gregnk.com homepage</a></b>
