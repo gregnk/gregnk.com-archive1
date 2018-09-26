@@ -6,12 +6,9 @@
         <meta name="description" content="<%= @document.description %>">
         <meta name="keywords" content="<%= @document.keywords %>">
         <meta charset="utf-8">
-
-        <!-- css stuff -->
         <link rel="icon" type="image/x-icon" href="/favicon.png">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- for IE 8 and below -->
         <!--[if lt IE 9]>
         <script src="https://raw.githubusercontent.com/aFarkas/html5shiv/master/src/html5shiv.js"></script>
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
