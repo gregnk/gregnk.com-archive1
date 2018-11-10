@@ -15,4 +15,4 @@ isPage: true
 [GregoryKarastergios](http://youtube.com/GregoryKarastergios) - I upload videos here sometimes, usually on projects that I'm working on.
 
 ## Twitter
-[Gregory_NK](http://twitter.com/Gregory_NK) - Updates, thoughts, opinions and other things that I want to say.
+[gregory_nk](http://twitter.com/gregory_nk) - Updates, thoughts, opinions and other things that I want to say.
