@@ -1,3 +1,4 @@
 # Disallow images
 User-agent: *
 Disallow: /img
+Disallow: /projects/2018-Countdown.html
