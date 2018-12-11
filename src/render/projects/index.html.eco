@@ -8,6 +8,7 @@ isPage: true
 <h1>Projects</h1>
 <% for page in @getFilesAtPath("projects").findAll({isPage:true,layout:"project"},[date:-1]).toJSON(): %>
 <a href="<%= if page.externalLink then page.externalLink else page.url %>"><%= page.title %></a> - <%= page.desc %>
+<br>
 <% end %>
 <br>
 <br>
