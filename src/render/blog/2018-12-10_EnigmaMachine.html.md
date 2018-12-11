@@ -11,6 +11,6 @@ In case you don't know, an ["Enigma Machine"](https://en.wikipedia.org/wiki/Enig
 
 ![alt text](/images/EnigmaMachine.jpg)
 
-In the future I might add a more few features to Enigma Machine if I feel like it, depending on if I have time or not. Also, credit goes to my history teacher for suggesting the awesome name.
+In the future I might add a few more features to Enigma Machine if I feel like it, depending on if I have the time or not. Also, credit goes to my history teacher for suggesting the awesome name.
 
 I have also been working on some other projects, but school has been a major pain in the ass so not much has been done yet. Hopefully things will be sorted our sooner than later so that I can get back to working on them.
