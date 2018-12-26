@@ -10,8 +10,8 @@ Enigma Machine is a simple desktop program that can encode messages. I made this
 Credits goes to my history teacher for [the name](https://en.wikipedia.org/wiki/Enigma_machine).
 
 ## System Requirements
-Windows Vista SP2 or later
-.NET Framework 4.5.2 ([Download](https://www.microsoft.com/en-us/download/details.aspx?id=40773))
+* Windows Vista SP2 or later
+* .NET Framework 4.5.2 ([Download](https://www.microsoft.com/en-us/download/details.aspx?id=40773))
 
 ## Downloads
 [Latest release (v1.0.0)](https://github.com/gregnk/EnigmaMachine/releases/download/v1.0.0/EnigmaMachine-v1.0.0.zip)
