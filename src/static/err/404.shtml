@@ -9,7 +9,6 @@
     <body>
         <h1>Error!</h1>
         <h2>404 - Page not found</h2>
-        <!--#echo var="REQUEST_URI" --> was not found on <!--#echo var="HTTP_HOST" -->.
         <br>
         If you think there is a broken link please <a href="mailto:greg@gregnk.com">contact me</a>
         <br>

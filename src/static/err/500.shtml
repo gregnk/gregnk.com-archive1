@@ -9,7 +9,6 @@
     <body>
         <h1>Error!</h1>
         <h2>500 - Internal Server Error</h2>
-        An error in the server configuration has caused <!--#echo var="HTTP_HOST" --> to not work properly.
         <br>
         Please wait a couple minutes and reload the page.
         <br>
