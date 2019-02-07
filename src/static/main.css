@@ -134,13 +134,13 @@ nav a, nav a:visited
 
 nav a:hover
 {
-    color: rgb(200, 200, 200);
+    color: rgb(190, 190, 190);
     text-decoration: none;
 }
 
 nav a:active
 {
-    color: rgb(170, 170, 170);
+    color: rgb(150, 150, 150);
 }
 
 /* mobile */
