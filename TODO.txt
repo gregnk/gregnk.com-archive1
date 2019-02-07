@@ -1,3 +1,2 @@
 * Have the home page only display the most recent blog posts
-* Fix page caching
 * Try playing with different site layouts
