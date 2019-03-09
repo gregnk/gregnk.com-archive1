@@ -2,7 +2,7 @@
 layout: project
 title: Enigma Machine
 desc: A simple message encoding program
-keywords: ""
+keywords: "message encoder"
 isPage: true
 featured: true
 ---
