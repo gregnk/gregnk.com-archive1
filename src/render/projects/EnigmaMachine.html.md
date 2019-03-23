@@ -4,7 +4,7 @@ title: Enigma Machine
 desc: A simple message encoding program
 keywords: "message encoder"
 isPage: true
-featured: true
+featured: false
 ---
 Enigma Machine is a simple desktop program that can encode messages. I made this for fun back in 2017 and now I've decided to release it to the Internet.
 
