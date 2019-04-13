@@ -26,6 +26,17 @@ p
     max-width: 1000px;
 }
 
+#mainHeader
+{
+    border-bottom: 1px solid black;
+    background-color: rgb(0, 70, 127);
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 0px 0px 40px rgb(0, 0, 0);
+    word-wrap: break-word;
+    padding-bottom: 10px;
+} 
+
 h1
 {
     border-bottom: 5px rgb(103, 103, 103) solid;
@@ -33,7 +44,7 @@ h1
 
 h2
 {
-    border-bottom: 5px rgb(0, 71, 128) solid;
+    border-bottom: 5px rgb(0, 70, 127) solid;
 }
 
 h4
@@ -67,18 +78,7 @@ nav a
     padding-bottom: 65px; 
     padding-left: 170px;
     word-wrap: break-word;
-}
-
-#mainHeader
-{
-    border-bottom: 1px solid black;
-    background-color: rgb(0, 71, 128);
-    font-size: 60px;
-    font-weight: bold;
-    text-shadow: 0px 0px 40px rgb(0, 0, 0);
-    word-wrap: break-word;
-    padding-bottom: 10px;
-}   
+}  
 
 footer
 {
