@@ -33,7 +33,7 @@ Md2Html <File>.md <Options>
 
 ## Downloads
 
-[v2.0.0 (Latest release)](https://github.com/gregnk/EnigmaMachine/releases/download/v2.0.0/Md2Html-v2.0.0.zip)
+[v2.0.0 (Latest release)](https://github.com/gregnk/Md2Html/releases/download/v2.0.0/Md2Html-v2.0.0.zip)
 
 ## Source Code
 [Github repo](https://github.com/gregnk/Md2Html/)
