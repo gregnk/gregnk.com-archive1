@@ -26,6 +26,11 @@ p
     max-width: 1000px;
 }
 
+pre
+{
+    background-color: rgb(58, 58, 58);
+}
+
 #mainHeader
 {
     border-bottom: 1px solid black;
