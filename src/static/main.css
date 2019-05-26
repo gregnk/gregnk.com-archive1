@@ -29,7 +29,7 @@ p
 pre
 {
     background-color: rgb(58, 58, 58);
-    white-space: pre-line;
+    white-space: pre-wrap;
 }
 
 #mainHeader
