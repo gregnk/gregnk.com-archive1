@@ -29,6 +29,7 @@ p
 pre
 {
     background-color: rgb(58, 58, 58);
+    white-space: pre-line;
 }
 
 #mainHeader
@@ -151,7 +152,7 @@ nav a:active
 /* mobile */
 
 @media (orientation: portrait)
-{
+{    
     #mainHeader
     {
         font-size: 45px;
