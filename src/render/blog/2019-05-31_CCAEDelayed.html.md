@@ -1,7 +1,6 @@
 ---
 layout: post
 date: 2019-05-27 0:01
-updated: 2019-05-02
 title: CCAnimationEditor is Delayed
 keywords: "DevLog, development, log, May 2019"
 isPage: true
