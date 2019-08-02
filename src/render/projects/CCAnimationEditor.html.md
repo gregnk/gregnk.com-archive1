@@ -6,7 +6,7 @@ keywords: "CrossCode, animation, modding, editor"
 isPage: true
 featured: true
 ---
-An animation editor for the video game [CrossCode](cross-code.com)
+An animation editor for modding the video game [CrossCode](cross-code.com)
 
 ## Features
 * Live animation preview
