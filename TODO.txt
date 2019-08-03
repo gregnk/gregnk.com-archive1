@@ -1,2 +1,3 @@
 * Have the home page only display the most recent blog posts
 * Try playing with different site layouts
+* Change the layout of the project pages (it seems hard to navigate)
