@@ -28,10 +28,10 @@ An animation editor for modding the video game [CrossCode](cross-code.com)
 [v0.1.0](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.1.0/CCAnimationEditor-v0.1.0.zip)
 
 ## Source Code
-[Github repo](https://github.com/gregnk/CCAnimationEditor)
+**[Github repo](https://github.com/gregnk/CCAnimationEditor)**
 
-[v0.2.0 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.0.zip)
-[v0.1.0 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.1.0.zip)
+**[v0.2.0 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.0.zip)**
+[v0.1.0](https://github.com/gregnk/CCAnimationEditor/archive/v0.1.0.zip)
 
 ## Release Log
 #### v0.2.0 (2019-08-28)
