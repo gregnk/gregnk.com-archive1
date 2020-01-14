@@ -24,7 +24,8 @@ An animation editor for modding the video game [CrossCode](cross-code.com)
 
 ## Downloads
 
-**[v0.2.2 (Latest release)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.2/CCAnimationEditor-v0.2.2.zip)**<br>
+**[v0.2.3 (Latest release)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.2/CCAnimationEditor-v0.2.3.zip)**<br>
+[v0.2.2](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.2/CCAnimationEditor-v0.2.2.zip)<br>
 [v0.2.1](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.1/CCAnimationEditor-v0.2.1.zip)<br>
 [v0.2.0](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.0/CCAnimationEditor-v0.2.0.zip)<br>
 [v0.1.0](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.1.0/CCAnimationEditor-v0.1.0.zip)
@@ -32,12 +33,16 @@ An animation editor for modding the video game [CrossCode](cross-code.com)
 ## Source Code
 **[Github repo](https://github.com/gregnk/CCAnimationEditor)**
 
-**[v0.2.2 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.2.zip)**<br>
+**[v0.2.2 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.3.zip)**<br>
+[v0.2.2](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.2.zip)<br>
 [v0.2.1](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.1.zip)<br>
 [v0.2.0](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.0.zip)<br>
 [v0.1.0](https://github.com/gregnk/CCAnimationEditor/archive/v0.1.0.zip)
 
 ## Release Log
+#### v0.2.3 (2020-01-14)
+* Fixed a bug related to how offset values are saved
+
 #### v0.2.2 (2019-09-21)
 * Fixed several bugs related to saving and loading new files created in the editor
 * Fixed a bug where the sheet editor controls would be reset when removing an animation
