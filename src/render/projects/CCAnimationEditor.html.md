@@ -14,9 +14,9 @@ An animation editor for modding the video game [CrossCode](cross-code.com)
 
 ## Screenshots
 
-![](/images/Screenshots/CCAnimationEditor/SheetsSmall.png)
+![imageSize75Percent](/images/Screenshots/CCAnimationEditor/Sheets.png)
 
-![](/images/Screenshots/CCAnimationEditor/AnimationsSmall.png)
+![imageSize75Percent](/images/Screenshots/CCAnimationEditor/Animations.png)
 
 ## System Requirements
 * Windows 7 SP1 or later
@@ -33,7 +33,7 @@ An animation editor for modding the video game [CrossCode](cross-code.com)
 ## Source Code
 **[Github repo](https://github.com/gregnk/CCAnimationEditor)**
 
-**[v0.2.2 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.3.zip)**<br>
+**[v0.2.3 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.3.zip)**<br>
 [v0.2.2](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.2.zip)<br>
 [v0.2.1](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.1.zip)<br>
 [v0.2.0](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.0.zip)<br>
