@@ -103,10 +103,16 @@ ul.blog
     list-style: none;
 }
 
-img[alt = imageSize25Percent] 
+img[alt = imageSize10Percent] 
 {
-    width: 50%;
-    height: 50%;
+    width: 10%;
+    height: 10%;
+}
+
+img[alt = imageSize25Percent]
+{
+    width: 25%;
+    height: 25%;
 }
 
 img[alt = imageSize50Percent] 
