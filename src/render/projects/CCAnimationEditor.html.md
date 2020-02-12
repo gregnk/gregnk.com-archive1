@@ -8,6 +8,8 @@ featured: true
 ---
 An animation editor for modding the video game [CrossCode](cross-code.com)
 
+**[Download latest version](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.3/CCAnimationEditor-v0.2.3.zip)**<br>
+
 ## Features
 * Live animation preview
 * Automatic backup creation

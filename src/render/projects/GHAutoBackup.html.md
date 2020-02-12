@@ -9,6 +9,8 @@ featured: true
 
 A script which can automatically back up a bunch of git repositories in batch
 
+**[Download latest version](https://github.com/gregnk/GHAutoBackup/releases/download/v1.0.0/GHAutoBackup-v1.0.0.zip)**<br>
+
 ## Features
 * Batch git cloning and updating
 * Automatic cloning of all repositories from Github users and organizations
