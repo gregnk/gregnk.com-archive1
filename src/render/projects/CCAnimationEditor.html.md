@@ -6,7 +6,7 @@ keywords: "CrossCode, animation, modding, editor"
 isPage: true
 featured: true
 ---
-An animation editor for modding the video game [CrossCode](cross-code.com)
+An animation editor for modding the video game [CrossCode](http://cross-code.com)
 
 **[Download latest version (v0.2.4)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.4/CCAnimationEditor-v0.2.4.zip)**<br>
 
