@@ -25,8 +25,12 @@ DualityTools can be installed via the Duality package manager
 ## Source Code
 [Github repo](https://github.com/gregnk/DualityTools/)
 
-[Latest version (v1.0.0)](https://github.com/gregnk/DualityTools/archive/v1.0.0.zip)
+[v1.0.1 (Latest release)](https://github.com/gregnk/DualityTools/archive/v1.0.1.zip)<br>
+[v1.0.0](https://github.com/gregnk/DualityTools/archive/v1.0.0.zip)
 
 ## Release Log
-**v1.0.0 (2019-03-21)**
+#### v1.0.1 (2020-02-15)
+* Made a few minor bug fixes and updates
+
+#### v1.0.0 (2019-03-21)
 * Initial release
