@@ -6,4 +6,4 @@ For a list of tags (code snapshots), see [Tags](https://github.com/gregnk/gregnk
 
 ## Copyright
 
-&copy; 2016-2019 Gregory Karastergios
+&copy; 2016-2020 Gregory Karastergios
