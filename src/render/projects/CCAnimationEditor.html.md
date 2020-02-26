@@ -1,7 +1,7 @@
 ---
 layout: project
 title: CCAnimationEditor
-desc: An animation editor modding for the video game CrossCode
+desc: An animation editor for modding the video game CrossCode
 keywords: "CrossCode, animation, modding, editor"
 isPage: true
 featured: true
