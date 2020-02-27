@@ -25,10 +25,15 @@ DualityTools can be installed via the Duality package manager
 ## Source Code
 [Github repo](https://github.com/gregnk/DualityTools/)
 
-[v1.0.1 (Latest release)](https://github.com/gregnk/DualityTools/archive/v1.0.1.zip)<br>
+[v1.0.2 (Latest release)](https://github.com/gregnk/DualityTools/archive/v1.0.2.zip)<br>
+[v1.0.1](https://github.com/gregnk/DualityTools/archive/v1.0.1.zip)<br>
 [v1.0.0](https://github.com/gregnk/DualityTools/archive/v1.0.0.zip)
 
 ## Release Log
+#### v1.0.2 (2020-02-27)
+* Fixed render errors in SceneSelect
+* Added editor categories to components
+
 #### v1.0.1 (2020-02-15)
 * Made a few minor bug fixes and updates
 
