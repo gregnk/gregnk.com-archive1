@@ -16,6 +16,3 @@ isPage: true
 
 ## Twitter
 [gregory_nk](http://twitter.com/gregory_nk) - Updates, thoughts, opinions and other things that I want to say.
-
-## Reddit
-[gregnk](https://www.reddit.com/u/gregnk) - Mostly comments on the various subreddits I follow.
