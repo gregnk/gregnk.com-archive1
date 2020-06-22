@@ -13,6 +13,3 @@ isPage: true
 
 ## Youtube
 [GregoryKarastergios](http://youtube.com/GregoryKarastergios) - I upload videos here sometimes, usually on projects that I'm working on.
-
-## Twitter
-[gregory_nk](http://twitter.com/gregory_nk) - Updates, thoughts, opinions and other things that I want to say.
