@@ -6,7 +6,7 @@ isPage: true
 ---
 # Contact
 ## Email
-[gregory@gregnk.com](mailto:gregory@gregnk.com) - Feel free to send me suggestions and feedback here
+[gregory@gregnk.com](mailto:gregory@gregnk.com) - Feel free to send me suggestions and feedback here.
 
 ## Github
 [gregnk](http://github.com/gregnk) - Where the source code for some my projects is located. Currently there's not much there.
