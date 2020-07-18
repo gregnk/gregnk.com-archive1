@@ -8,7 +8,7 @@ featured: true
 ---
 An animation editor for modding the video game [CrossCode](http://cross-code.com)
 
-**[Download latest version (v0.2.5)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.5/CCAnimationEditor-v0.2.5.zip)**<br>
+**[Download latest version (v0.2.6)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.6/CCAnimationEditor-v0.2.6.zip)**<br>
 
 ## Features
 * Live animation preview
@@ -26,7 +26,8 @@ An animation editor for modding the video game [CrossCode](http://cross-code.com
 
 ## Downloads
 
-**[v0.2.5 (Latest release)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.5/CCAnimationEditor-v0.2.5.zip)**<br>
+**[v0.2.6 (Latest release)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.6/CCAnimationEditor-v0.2.6.zip)**<br>
+[v0.2.5](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.5/CCAnimationEditor-v0.2.5.zip)<br>
 [v0.2.4](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.4/CCAnimationEditor-v0.2.4.zip)<br>
 [v0.2.3](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.3/CCAnimationEditor-v0.2.3.zip)<br>
 [v0.2.2](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.2/CCAnimationEditor-v0.2.2.zip)<br>
@@ -37,7 +38,8 @@ An animation editor for modding the video game [CrossCode](http://cross-code.com
 ## Source Code
 **[Github repo](https://github.com/gregnk/CCAnimationEditor)**
 
-**[v0.2.5 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.5.zip)**<br>
+**[v0.2.6 (Latest release)](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.6.zip)**<br>
+[v0.2.5](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.5.zip)<br>
 [v0.2.4](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.4.zip)<br>
 [v0.2.3](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.3.zip)<br>
 [v0.2.2](https://github.com/gregnk/CCAnimationEditor/archive/v0.2.2.zip)<br>
@@ -46,6 +48,13 @@ An animation editor for modding the video game [CrossCode](http://cross-code.com
 [v0.1.0](https://github.com/gregnk/CCAnimationEditor/archive/v0.1.0.zip)
 
 ## Release Log
+#### v0.2.7 (2020-07-17)
+* Fixed version number in program assembly
+
+#### v0.2.6 (2020-07-16)
+* Fixed a bug where some animation directions with flipX set to 1 would not display properly
+* The animation/sheet display panel will now refresh after settings are changed
+
 #### v0.2.5 (2020-06-21)
 * Fixed a bug related to saving anchorOffsetZ
 
