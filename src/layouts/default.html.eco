@@ -11,15 +11,15 @@
 
         <!--[if lt IE 9]>
         <script src="https://raw.githubusercontent.com/aFarkas/html5shiv/master/src/html5shiv.js"></script>
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
         <![endif]-->
     </head>
     <body>
         <div id="container">
-            <!-- header -->
-            <header id="mainHeader">Gregory's Software and Stuff</header>
+            <!-- Header -->
+            <header id="mainHeader">Gregnk: Software and Stuff</header>
             <br>
-            <!-- navigation -->
+            <!-- Navigation -->
             <nav>
                 <a href="/">Home</a>
                 <br>
@@ -35,7 +35,7 @@
 <!-- CONTENT END -->
             <br>
             </div>
-            <!-- footer -->
+            <!-- Footer -->
             <footer>
                 &copy; 2016-2020 Gregory Karastergios
             </footer>
