@@ -6,6 +6,8 @@ keywords: "CrossCode, animation, modding, editor"
 isPage: true
 featured: true
 ---
+***NOTICE: This project has been suspended indefinitely due to technical and personal difficulties***
+
 An animation editor for modding the video game [CrossCode](http://cross-code.com)
 
 **[Download latest version (v0.2.7)](https://github.com/gregnk/CCAnimationEditor/releases/download/v0.2.7/CCAnimationEditor-v0.2.7.zip)**<br>
