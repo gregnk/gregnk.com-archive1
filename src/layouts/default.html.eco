@@ -11,7 +11,7 @@
 
         
         <meta property="og:type" content="website">
-        <meta property="og:title" content="<%= @document.title %><">
+        <meta property="og:title" content="<%= @document.title %>">
         <meta name="og:description" content="<%= @document.desc %>">
         <meta property="og:site_name" content="gregnk.com">
         <meta property="og:locale" content="en">
