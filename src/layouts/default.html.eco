@@ -9,6 +9,13 @@
         <!-- <link rel="icon" type="image/x-icon" href="/favicon.png"> -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="<%= @document.title %><">
+        <meta name="og:description" content="<%= @document.desc %>">
+        <meta property="og:site_name" content="gregnk.com">
+        <meta property="og:locale" content="en">
+        
         <!--[if lt IE 9]>
         <script src="https://raw.githubusercontent.com/aFarkas/html5shiv/master/src/html5shiv.js"></script>
         <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
