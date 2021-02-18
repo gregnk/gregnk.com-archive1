@@ -18,7 +18,6 @@
         
         <!--[if lt IE 9]>
         <script src="https://raw.githubusercontent.com/aFarkas/html5shiv/master/src/html5shiv.js"></script>
-        <!-- <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
         <![endif]-->
     </head>
     <body>
